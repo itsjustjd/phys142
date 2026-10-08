@@ -2,3 +2,4 @@
 
 My code, reports, and notes for PHYS 142 go here.
 Record how to run each calculation, including its seed and inputs.
+Current practice sample count: 1000.
