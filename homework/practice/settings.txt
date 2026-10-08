@@ -1,0 +1,3 @@
+distribution = fair_die
+seed = 20261008
+samples = 100
